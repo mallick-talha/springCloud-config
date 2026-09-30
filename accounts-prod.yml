@@ -2,7 +2,7 @@
 build:
   version: "2.0"
 
-cards:
+accounts:
   message: "Welcome to our cards related local production-APIs "
   contactDetails:
     name: "Utsav Kumar - Developer"
