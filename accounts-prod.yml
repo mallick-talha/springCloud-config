@@ -3,7 +3,7 @@ build:
   version: "2.0"
 
 cards:
-  message: "Welcome to our cards related local prod-APIs "
+  message: "Welcome to our cards related local production-APIs "
   contactDetails:
     name: "Utsav Kumar - Developer"
     email: "utsav22@eazybank.com"
