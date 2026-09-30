@@ -2,7 +2,7 @@
 build:
   version: "1.0"
 
-cards:
+accounts:
   message: "Welcome to our cards related local qa-APIs "
   contactDetails:
     name: "Suman Kumar - Developer"
